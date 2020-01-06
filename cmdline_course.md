@@ -2,7 +2,7 @@
 layout: default
 ---
 ## Course overview  
-An introduction course to command-line tools aimed for linguists. Among other things the course included the understanding of Unix systems, corpora processing, installing programs and creating GitHub pages.
+An introduction course to command-line tools aimed for linguists. Among other things the course included understanding Unix systems, corpora processing, installing programs and creating GitHub pages.
 
 ### 1. Introduction 
 Getting familiar with command-line environment with basic commands and creating files
@@ -10,7 +10,7 @@ Getting familiar with command-line environment with basic commands and creating 
  * viewing text files  
  * basic operations on _emacs_   
 
-### 2. Getting to Understand UNIX System  
+### 2. Getting to Understand Unix System  
 Navigating in Unix system and learning more basic commands, in addition working in remote services
  * creating, renaming, copying and moving directories  
  * display information about commands/programs    
