@@ -54,8 +54,9 @@ Software installation with package managers and using `make`
 Undersanding why it is useful to have multiple versions of your work and also beeing able to go back to previous versions. Tracking changes and being aware what has been commited
  * adding and commiting changes
  * traking these changes
- * creating new braches and stwitching between them 
- * using _markdown_ files, which can for example have tables to portray collected data:   
+ * creating new braches and stwitching between them
+ * view your work with Jekyll 
+ * using _markdown_ files, which can for example be used to portray collected data in table form:   
 
 Word | Frequency  
 ---  | --- 
@@ -64,4 +65,6 @@ of   | 2701
 and  | 2041        
 to   | 1733     	
 that | 1182     
-in   | 1161     
+in   | 1161  
+
+![Summary](https://www.meme-arsenal.com/en/create/meme/473692)
