@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<<<<<<< HEAD
 =======
 ![image](https://hackernoon.com/hn-images/1*jFyawcsqoYctkTuZg6wQ1A.jpeg)
 
@@ -71,4 +70,3 @@ to   | 1733
 that | 1182     
 in   | 1161  
 
->>>>>>> cmdline-course
