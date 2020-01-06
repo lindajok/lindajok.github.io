@@ -35,7 +35,7 @@ Learning about different character encondings and how to convert between them. U
 
 ### 4. More in Depth Corpus Processing
 Using stream editor to edit files without opening them, making frequency lists and understanding N-grams
- * `sed` for substitution, deletion, finding patterns, replication    
+ * `sed` for substitution, deletion, finding patterns and replication    
  * text files to one-word-per-line format and finally arranging them into numerical order
  * searching differencies within files with `diff` 
  * _regex_ 

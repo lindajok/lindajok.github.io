@@ -1,11 +1,10 @@
 ---
 layout: default
 ---
-![lavender](https://i.imgur.com/Jmb6a5J.png)
-
+![monkey](https://hackernoon.com/hn-images/1*jFyawcsqoYctkTuZg6wQ1A.jpeg)
 ## Introduction
-Student at University of Helsinki majoring in general linguistic and also keen interest in language technology. Minor in social studies specialising in social policy. On the side doing language studies mainly in German to prepare for future exchange semester in Germany. Through my studies at Helsinki University I have been able to combine many of my interest for future work prospects.  
-For now I am hoping to deepen my knowledge in laguage technology and maybe make use out of it in social studies. Also German language and culture have been a side hobby of mine for many years. In addition to exchange year, I am also waiting enthusiastically for a possible practice in Germany to further reinforce my language and professional skills. 
+Student at University of Helsinki majoring in general linguistic and also keen interest in language technology. Minor in social studies specialising in social policy. On the side doing language studies mainly in German to prepare for future exchange semester in Germany. Through my studies at Helsinki University I have been able to combine many of my interest for future work prospects. For now I am hoping to deepen my knowledge in laguage technology and make a use out of it in social studies.  
+German language and culture have been a side hobby of mine for many years. In addition to exchange, I am also waiting enthusiastically for a possible practice in Germany to further reinforce my language and professional skills. 
 
 Check my [CV](https://www.overleaf.com/read/jcfsmbdkzxtc)
 ## Courses I've Taken
