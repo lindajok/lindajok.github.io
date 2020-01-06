@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 ![image](https://hackernoon.com/hn-images/1*jFyawcsqoYctkTuZg6wQ1A.jpeg)
 
 ## Course overview  
