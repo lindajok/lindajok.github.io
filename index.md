@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-!(lavender)[https://i.imgur.com/Jmb6a5J.png]
+![lavender](https://i.imgur.com/Jmb6a5J.png)
 
 ## Introduction
 Student at University of Helsinki majoring in general linguistic and also keen interest in language technology. Minor in social studies specialising in social policy. On the side doing language studies mainly in German to prepare for future exchange semester in Germany. Through my studies at Helsinki University I have been able to combine many of my interest for future work prospects.  
