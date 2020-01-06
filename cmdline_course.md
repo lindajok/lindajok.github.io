@@ -3,6 +3,7 @@ layout: default
 ---
 ## Course overview  
 An introduction course to command-line tools aimed for linguists. Among other things the course included understanding Unix systems, corpora processing, installing programs and creating GitHub pages.
+
 ---
 ### 1. Introduction 
 Getting familiar with command-line environment with basic commands and creating files
@@ -56,11 +57,11 @@ Undersanding why it is useful to have multiple versions of your work and also be
  * creating new braches and stwitching between them 
  * using _markdown_ files, which can for example have tables to portray collected data:   
 
-&nbsp; &nbsp;Word | Frequency  
-&nbsp; &nbsp;---  | --- 
-&nbsp; &nbsp;the  | 5009      
-&nbsp; &nbsp;of   | 2701     
-&nbsp; &nbsp;and  | 2041        
-&nbsp; &nbsp;to   | 1733     	
-&nbsp; &nbsp;that | 1182     
-&nbsp; &nbsp;in   | 1161     
+Word | Frequency  
+---  | --- 
+the  | 5009      
+of   | 2701     
+and  | 2041        
+to   | 1733     	
+that | 1182     
+in   | 1161     
