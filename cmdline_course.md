@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-=======
 ![image](https://hackernoon.com/hn-images/1*jFyawcsqoYctkTuZg6wQ1A.jpeg)
 
 ## Course overview  
@@ -36,7 +35,7 @@ Learning about different character encondings and how to convert between them. U
 ### 4. More in Depth Corpus Processing
 Using stream editor to edit files without opening them, making frequency lists and understanding N-grams
  * `sed`
-  * substitution, deletion, finding patterns, replication 
+   * substitution, deletion, finding patterns, replication 
  * text files to one-word-per-line format and finally arranging them into numerical order
  * searching differencies within files with `diff` 
  * _regex_ 
@@ -61,12 +60,9 @@ Undersanding why it is useful to have multiple versions of your work and also be
  * view your work with Jekyll 
  * using _markdown_ files, which can for example be used to portray collected data in table form:   
 
-Word | Frequency  
----  | --- 
-the  | 5009      
-of   | 2701     
-and  | 2041        
-to   | 1733     	
-that | 1182     
-in   | 1161  
-
+Word | Frequency |  
+---  | ---       |
+the  | 5009      |     
+of   | 2701      |   
+and  | 2041      |     
+to   | 1733      |  	
