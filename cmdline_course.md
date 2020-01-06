@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+![image](https://hackernoon.com/hn-images/1*jFyawcsqoYctkTuZg6wQ1A.jpeg)
+
 ## Course overview  
 An introduction course to command-line tools aimed for linguists. Among other things the course included understanding Unix systems, corpora processing, installing programs and creating GitHub pages.
 
@@ -67,4 +69,3 @@ to   | 1733
 that | 1182     
 in   | 1161  
 
-![Summary](https://www.meme-arsenal.com/en/create/meme/473692)
