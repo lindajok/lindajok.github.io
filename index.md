@@ -1,27 +1,28 @@
 ---
 layout: default
 ---
-
 ## Introduction
+Student at University of Helsinki majoring in general linguistic and also keen interest in language technology. Minor in social studies specialising in social policy. On the side doing language studies mainly in German to prepare for future exchange semester in Germany. Through my studies at Helsinki University I have been able to combine many of my interest for future work prospects.  
+For now I am hoping to deepen my knowledge in laguage technology and maybe make use out of it in social studies. Also German language and culture have been a side hobby of mine for many years. In addition to exchange year, I am also waiting enthusiastically for a possible practice in Germany to further reinforce my language and professional skills. 
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-## Find me on
-
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
-
-## Contact
-
-My email address is of the form first_name.last_name@helsinki.fi. 
-
+Check my [CV](https://www.overleaf.com/read/jcfsmbdkzxtc)
 ## Courses I've Taken
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
-
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+_[Command line tools for linguists](https://courses.helsinki.fi/fi/KIK-LG219/129824412)_, fall 2019  
+_[Corpus linguistics and statistical methods](https://courses.helsinki.fi/fi/kik-404/120960460)_, fall 2019  
+_[Semantics and pragmatics](https://courses.helsinki.fi/fi/kik-lg103/125773180)_, spring 2019  
+_[Morphology and syntax](https://courses.helsinki.fi/fi/kik-lg102/120337956)_, spring 2019  
+_[Introduction to language technology](https://courses.helsinki.fi/fi/kik-405/124787882)_, fall 2018  
 
 ## Projects
 
-## Misc. 
+[GitHub][1] for _[Command line tools for linguists][2]_ course  
+* Set up repository   
+* Make changes to files and commit them  
+* Make, switch and merge branches  
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+[1]: https://github.com/lindajok/cmdline-course
+[2]: https://courses.helsinki.fi/fi/KIK-LG219/129824412
+
+---
+### Say _hi_ [LinkedIn](https://www.linkedin.com/in/linda-jokinen-998426161/) [Email](mailto:linda.jokinen@helsinki.fi) &nbsp; &nbsp; &nbsp; Find me also on [GitHub](https://github.com/lindajok)
