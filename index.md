@@ -5,7 +5,7 @@ layout: default
 ## Introduction
 Student at University of Helsinki majoring in general linguistic and language technology, minor in social research. On the side doing language studies mainly in German to prepare for a future internship/exchange in Germany. Through my studies at Helsinki University I have been able to combine many of my interest for future work prospects. For now I am hoping to deepen my knowledge in laguage technology and make a use out of it in social studies.  
 
-Check my [CV](https://www.overleaf.com/read/jcfsmbdkzxtc)
+
 ## Courses I've Taken
 
 _[Command line tools for linguists](https://courses.helsinki.fi/fi/KIK-LG219/129824412)_, fall 2019  
